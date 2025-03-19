@@ -58,6 +58,7 @@ src/
 ├── App.js
 ├── index.js
 ├── styles.css
+```
 
 ## ✨ Components Breakdown
 
@@ -93,4 +94,7 @@ src/
 - Drag-and-drop task reordering.
 - Dark mode support.
 - Refactor state management to eliminate prop drilling.
+
+```
+
 ```
