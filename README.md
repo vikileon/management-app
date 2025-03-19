@@ -1,6 +1,6 @@
 # Project Management App
 
-![Overview](./src/assets/overview.gif)
+![Overview](./src/assets/project-overview.gif)
 
 A simple and user-friendly project management application built with **React** and **Tailwind CSS**. This app allows users to create, manage, and delete projects, as well as add and remove tasks within each project.
 
