@@ -40,23 +40,24 @@ npm install
 npm run dev
 ```
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```plaintext
 src/
-│── components/
-│ ├── Button.jsx
-│ ├── Input.jsx
-│ ├── Modal.jsx
-│ ├── Sidebar.jsx
-│ ├── NewProject.jsx
-│ ├── NoProjectSelected.jsx
-│ ├── SelectedProject.jsx
-│ ├── Tasks.jsx
-│ ├── NewTask.jsx
-│── assets/
-│── App.js
-│── index.js
-│── styles.css
+├── components/
+│   ├── Button.jsx
+│   ├── Input.jsx
+│   ├── Modal.jsx
+│   ├── Sidebar.jsx
+│   ├── NewProject.jsx
+│   ├── NoProjectSelected.jsx
+│   ├── SelectedProject.jsx
+│   ├── Tasks.jsx
+│   ├── NewTask.jsx
+├── assets/
+├── App.js
+├── index.js
+├── styles.css
 
 ## ✨ Components Breakdown
 
@@ -92,3 +93,4 @@ src/
 - Drag-and-drop task reordering.
 - Dark mode support.
 - Refactor state management to eliminate prop drilling.
+```
